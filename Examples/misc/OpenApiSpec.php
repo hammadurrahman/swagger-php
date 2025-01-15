@@ -7,7 +7,7 @@
 namespace OpenApi\Examples\Misc;
 
 use OpenApi\Annotations as OA;
-
+  title: 'Testing annotations from bugreports'
 /**
  * @OA\OpenApi(
  *     security={{"bearerAuth": {}}},
